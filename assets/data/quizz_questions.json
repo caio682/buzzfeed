@@ -1,0 +1,59 @@
+{
+  "title": "Descubra a sua Tecnologia Futura",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual gadget futurista você escolheria?",
+      "options": [
+        {"id": 1, "name": "Smartphone holográfico", "alias": "A"},
+        {"id": 2, "name": "Implante neural para conhecimento instantâneo", "alias": "B"},
+        {"id": 3, "name": "Carro voador pessoal", "alias": "A"},
+        {"id": 4, "name": "Assistente robô", "alias": "B"},
+        {"id": 5, "name": "Dispositivo de viagem no tempo", "alias": "A"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual cidade futurista você adoraria visitar?",
+      "options": [
+        {"id": 1, "name": "Neo-Tóquio", "alias": "A"},
+        {"id": 2, "name": "Cidade Cyberpunk", "alias": "A"},
+        {"id": 3, "name": "Utopia-X", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual poder futurista você gostaria de ter?",
+      "options": [
+        {"id": 1, "name": "Telepatia", "alias": "B"},
+        {"id": 2, "name": "Invisibilidade", "alias": "A"},
+        {"id": 3, "name": "Teletransporte", "alias": "B"},
+        {"id": 4, "name": "Força aprimorada", "alias": "A"},
+        {"id": 5, "name": "Controle mental", "alias": "B"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual trabalho futurista te anima mais?",
+      "options": [
+        {"id": 1, "name": "Designer de realidade virtual", "alias": "B"},
+        {"id": 2, "name": "Guia de turismo espacial", "alias": "A"},
+        {"id": 3, "name": "Engenheiro de nanorrobôs", "alias": "B"},
+        {"id": 4, "name": "Psicólogo de IA", "alias": "A"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu meio de transporte preferido no futuro?",
+      "options": [
+        {"id": 1, "name": "Hyperloop", "alias": "A"},
+        {"id": 2, "name": "Hoverboard antigravidade", "alias": "A"},
+        {"id": 3, "name": "Cápsulas de teleportação quântica", "alias": "B"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Parabéns! Você está destinado(a) a ser um(a) pioneiro(a) da tecnologia futurista!",
+    "B": "Parabéns! Você está destinado(a) a ser um(a) líder visionário(a) moldando o futuro!"
+  }
+}
